@@ -1,13 +1,8 @@
- ### Installation
+### Setup tmux custom configuration
 
 ```bash
 $ git clone https://github.com/ifahrentholz/tmux-setup
 $ ln -s ~/.tmux.conf ~/.tmux.conf
-```
-
-### Start VIM and install bundles 
-```bash
-BundleInstall
 ```
 
 ### Installing plugins
